@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "EntityFramework\\Program.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Backend\\EntityFramework\\EntityFramework\\Program.cs",
               "RelativeToolTip": "EntityFramework\\Program.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAuwFUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T08:01:15.146Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "EntityFramework\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T08:05:06.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T08:05:06.84Z"
             },
             {
               "$type": "Document",
@@ -64,8 +63,7 @@
               "RelativeToolTip": "EntityFramework\\Genre.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T08:07:22.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T08:07:22.528Z"
             },
             {
               "$type": "Document",
@@ -77,8 +75,7 @@
               "RelativeToolTip": "EntityFramework\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T08:10:44.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T08:10:44.54Z"
             }
           ]
         }

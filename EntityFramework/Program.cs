@@ -1,4 +1,6 @@
-﻿namespace EntityFramework
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace EntityFramework
 {
     internal class Program
     {
@@ -46,7 +48,7 @@
         public static Book GetBook(int id)
         {
             AppDbContext newDb = new AppDbContext();
-            return newDb.Books.FirstOrDefault(x => x.Id == id);
+            return newDb.Books.Include(x => x.Genres).FirstOrDefault(x => x.Id == id);
         }
         public static List<Genre> GetAllGenres()
         {
@@ -66,7 +68,7 @@
             newDb.Genres.Remove(genre);
             newDb.SaveChanges();
 
-        }   
+        }
         public static void RemoveBook(int id)
         {
             AppDbContext newDb = new AppDbContext();
